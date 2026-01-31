@@ -1,0 +1,522 @@
+[
+  {
+    "subjectCode": "AFM",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ACTSC",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "ASL",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ANTH",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "APPLS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "AMATH",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "ARABIC",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "AE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "ARCH",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "ARTS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ARBUS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "AVIA",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "BIOL",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "BME",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "BLKST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "BASE",
+    "faculty": "REN"
+  },
+  {
+    "subjectCode": "BUS",
+    "faculty": "WLU"
+  },
+  {
+    "subjectCode": "BET",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "CDNST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CHE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "CHEM",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "CHINA",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CMW",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CIVE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "CLAS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "COGSCI",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CO",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "COMM",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "COMMST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CS",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "CFM",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "COOP",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "CROAT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "CI",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "DAC",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "DUTCH",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "EARTH",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "EASIA",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ECON",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ECE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "ENGL",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "EMLS",
+    "faculty": "REN"
+  },
+  {
+    "subjectCode": "ENVS",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "ENBUS",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "ERS",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "ENVE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "FINE",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "FR",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "GA",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "GSJ",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "GENE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "GEOG",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "GEOE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "GER",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "GERON",
+    "faculty": "HEA"
+  },
+  {
+    "subjectCode": "GBDA",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "GRK",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HEALTH",
+    "faculty": "HEA"
+  },
+  {
+    "subjectCode": "HHUM",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HIST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HRM",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HRTS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HUMSC",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "INDENT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "INDG",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "INDEV",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "INNOV",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "INTST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ITAL",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "ITALST",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "JAPAN",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "JS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "KIN",
+    "faculty": "HEA"
+  },
+  {
+    "subjectCode": "INTEG",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "KOREA",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "LAT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "LS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "MGMT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "MSCI",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "MNS",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "MATBUS",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "MATH",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "MTHEL",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "ME",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "MTE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "MSE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "MEDVL",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "MENN",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "MOHAWK",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "MUSIC",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "NE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "OPTOM",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "PACS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "PHARM",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "PHIL",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "PHYS",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "PLAN",
+    "faculty": "ENV"
+  },
+  {
+    "subjectCode": "PSCI",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "PORT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "PD",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "PDARCH",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "PDPHRM",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "PSYCH",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "HLTH",
+    "faculty": "HEA"
+  },
+  {
+    "subjectCode": "RCS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "PMATH",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "REC",
+    "faculty": "HEA"
+  },
+  {
+    "subjectCode": "RS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "RUSS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "REES",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SCI",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "SCBUS",
+    "faculty": "SCI"
+  },
+  {
+    "subjectCode": "SMF",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SDS",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SOCWK",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SRF",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SWREN",
+    "faculty": "REN"
+  },
+  {
+    "subjectCode": "STV",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "SOC",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SE",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "SPAN",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "STAT",
+    "faculty": "MAT"
+  },
+  {
+    "subjectCode": "SI",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "SFM",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "SYDE",
+    "faculty": "ENG"
+  },
+  {
+    "subjectCode": "THPERF",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "UNIV",
+    "faculty": "VPA"
+  },
+  {
+    "subjectCode": "UCR",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "VCULT",
+    "faculty": "ART"
+  },
+  {
+    "subjectCode": "WKRPT",
+    "faculty": "VPA"
+  }
+]
