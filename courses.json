@@ -3638,7 +3638,7 @@
     "title": "AVIA100 - Introduction to Aviation",
     "subject": "Aviation (AVIA)",
     "description": "This course incorporates a survey of topic areas that impact the aviation industry in Canada. Key areas include aviation history, civil and military aviation, human factors, airspace and air traffic control systems, airport management, and aviation safety. The nature and impact of each of these topics is explored through a combination of lecture, class discussion and activities, and student presentations.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": []
   },
@@ -3647,7 +3647,7 @@
     "title": "AVIA101 - Professional Pilot Program Course 1",
     "subject": "Aviation (AVIA)",
     "description": "This course provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete flight training to the First Solo level. This course also includes the ground school required to prepare the student to write the Transport Canada Private Pilot Licence - Airplane examination. The course provides a solid base of the knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": []
   },
@@ -3656,7 +3656,7 @@
     "title": "AVIA102 - Professional Pilot Program Course 2",
     "subject": "Aviation (AVIA)",
     "description": "This course is a continuation of AVIA101 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete flight training to the Private Pilot Licence level.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": [
       "AVIA101"
@@ -3667,7 +3667,7 @@
     "title": "AVIA121 - Professional Pilot Program Course 1",
     "subject": "Aviation (AVIA)",
     "description": "This course provides the ground school required to prepare the student to write the Transport Canada Private Pilot Licence - Airplane examination. The course provides a solid base for the knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": []
   },
@@ -3676,7 +3676,7 @@
     "title": "AVIA141 - Preparatory Ground Instruction 1",
     "subject": "Aviation (AVIA)",
     "description": "This course provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": []
   },
@@ -3685,7 +3685,7 @@
     "title": "AVIA142 - Preparatory Ground Instruction 2",
     "subject": "Aviation (AVIA)",
     "description": "This course builds on AVIA141 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 100,
     "prerequisites": [
       "AVIA141"
@@ -3696,7 +3696,7 @@
     "title": "AVIA203 - Professional Pilot Program Course 3",
     "subject": "Aviation (AVIA)",
     "description": "This course is a continuation of AVIA102 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete flight training required to acquire the Night Rating and acquire additional cross-country Pilot-in-Command time.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA102"
@@ -3707,7 +3707,7 @@
     "title": "AVIA204 - Professional Pilot Program Course 4",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA203 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete a dual flight into high density controlled airspace (CYYZ). Students also complete a check-out in a complex aircraft and acquire additional cross-country pilot-in-command time. This course also includes the ground school required to prepare the student to write the Transport Canada Commercial Pilot Licence - Airplane examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA203"
@@ -3718,7 +3718,7 @@
     "title": "AVIA205 - Professional Pilot Program Course 5",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA204 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete a  dual flight into a grass field. Students also complete a check-out in a glass cockpit aircraft and work on acquiring cross-country Pilot-in-Command time. Preparation for the Commercial Pilot Flight Test is started during this course as well.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA204"
@@ -3729,7 +3729,7 @@
     "title": "AVIA222 - Professional Pilot Program Course 2",
     "subject": "Aviation (AVIA)",
     "description": "This course provides the first part of the ground school knowledge required to write the Transport Canada Commercial Pilot Licence – Airplane examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA121",
@@ -3741,7 +3741,7 @@
     "title": "AVIA223 - Professional Pilot Program Course 3",
     "subject": "Aviation (AVIA)",
     "description": "This course provides the second part of the ground school knowledge required to write the Transport Canada Commercial Pilot Licence – Airplane examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA222",
@@ -3753,7 +3753,7 @@
     "title": "AVIA243 - Preparatory Ground Instruction 3",
     "subject": "Aviation (AVIA)",
     "description": "This course builds on AVIA142 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA121",
@@ -3765,7 +3765,7 @@
     "title": "AVIA244 - Preparatory Ground Instruction 4",
     "subject": "Aviation (AVIA)",
     "description": "This course builds on AVIA243 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA222",
@@ -3777,7 +3777,7 @@
     "title": "AVIA245 - Preparatory Ground Instruction 5",
     "subject": "Aviation (AVIA)",
     "description": "This course builds on AVIA244 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": [
       "AVIA223",
@@ -3789,7 +3789,7 @@
     "title": "AVIA270 - Remotely Piloted Aircraft Systems (RPAS) Knowledge Requirements",
     "subject": "Aviation (AVIA)",
     "description": "Students will gain knowledge about the requirements and constraints affecting recreational, commercial and research RPAS (Unmanned Aerial Vehicles [UAV], Unmanned Aircraft Systems [UAS]) flights for geomatics applications. Theory and conceptual factors affecting flight, remote sensing, and spatial analysis with very-high resolution data will be discussed. Students will gain knowledge about how to navigate regulatory requirements. They will learn how to link their science and research objectives with geomatics skills to mitigate risk and obtain regulatory approval for legal RPAS flights. Assignments provide a range of experiences to students that may include: applied aspects of flight campaign approval, setup, management; flight training; and integrating imagery with geographic information systems.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 200,
     "prerequisites": []
   },
@@ -3798,7 +3798,7 @@
     "title": "AVIA306 - Professional Pilot Program Course 6",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA205 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete the Commercial Pilot Flight Test early in the course and then complete the training for the Multi-Engine Class Rating. This course also includes ground school to prepare students to write the Transport Canada Instrument Rating examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA205"
@@ -3809,7 +3809,7 @@
     "title": "AVIA307 - Professional Pilot Program Course 7",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA306 and focuses on exercises that apply knowledge of various considerations and procedures for flight in instrument meteorological conditions. Pairs of students will function as two-person flight crews during simulated IFR flights. Scenarios will enable students to recognize, avoid, or manage situations that lead to incidents. Also included is a tour of the Toronto Area Control Centre. The flight portion focuses on acquiring cross-country Pilot-in-Command time to meet the requirements for the Instrument Rating. This course also includes ground school in preparation for students to write the Transport Canada IATRA examination and training in wilderness survival and first aid skills.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA306"
@@ -3820,7 +3820,7 @@
     "title": "AVIA310 - Human Factors in Aviation",
     "subject": "Aviation (AVIA)",
     "description": "An exploration of aviation non-technical skills and their impact on aviation safety and operational performance. Components explore workload, management, situational awareness, decision-making, and crew co-ordination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA100"
@@ -3831,7 +3831,7 @@
     "title": "AVIA324 - Professional Pilot Program Course 4",
     "subject": "Aviation (AVIA)",
     "description": "A continuation of AVIA223, this course includes ground school to prepare students to write the Transport Canada Instrument Rating examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA245"
@@ -3842,7 +3842,7 @@
     "title": "AVIA325 - Professional Pilot Program Course 5",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA324 and provides the ground school knowledge required to prepare the student to write the Transport Canada Airline Transport Pilot Licence - Aeroplane examination.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA324",
@@ -3854,7 +3854,7 @@
     "title": "AVIA346 - Preparatory Ground Instruction 6",
     "subject": "Aviation (AVIA)",
     "description": "This course builds on AVIA245 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction. The course provides a solid base of knowledge required to be a safe and proficient professional pilot.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA245"
@@ -3865,7 +3865,7 @@
     "title": "AVIA347 - Preparatory Ground Instruction 7",
     "subject": "Aviation (AVIA)",
     "description": "This course provides an exploration of airline operations, emphasizing Standard Operating Procedures, advanced aircraft systems, and effective multi-crew coordination. Students will gain the critical skills and knowledge necessary for a career in the airline industry.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": [
       "AVIA324",
@@ -3877,7 +3877,7 @@
     "title": "AVIA374 - Special Topics in Aviation",
     "subject": "Aviation (AVIA)",
     "description": "A course offered in a particular branch of aviation, subject to availability of instructor.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 300,
     "prerequisites": []
   },
@@ -3886,7 +3886,7 @@
     "title": "AVIA408 - Professional Pilot Program Course 8",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA307 and completes the instruction toward the Group 1 Instrument Rating. Training will be conducted using a combination of simulator, single engine aircraft, and multi-engine aircraft. Flight in instrument meteorological conditions will be conducted whenever practicable. Any outstanding flight time requirements for the issue of the Commercial Pilot Licence will also be completed. This course completes the flight training.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": [
       "AVIA307"
@@ -3897,7 +3897,7 @@
     "title": "AVIA416 - Aviation Sustainability",
     "subject": "Aviation (AVIA)",
     "description": "An exploration of how sustainability is sought within the international aviation industry. The course takes a cross-sectional approach to aviation, exploring sustainability within the various sectors that make up the air transport system (e.g., air law, aircraft, operations, navigation, airports, and safety). Both the positive and negative impacts of aviation upon the sustainable development goals will be analyzed through reviewing case studies and industry practices. This course includes significant student project teamwork.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": [
       "AVIA100"
@@ -3908,7 +3908,7 @@
     "title": "AVIA417 - Aviation Safety",
     "subject": "Aviation (AVIA)",
     "description": "This course is an advanced exploration of how aviation safety is managed at the organizational level. Content will include explorations of pilot threat and error management, safety management systems (including risk analysis and hazard identification), and safety audits. The focal point of the course is on understanding the nature and causation of accidents. This course includes significant student project teamwork.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": [
       "AVIA310"
@@ -3919,7 +3919,7 @@
     "title": "AVIA426 - Professional Pilot Program Course 6",
     "subject": "Aviation (AVIA)",
     "description": "This course continues from AVIA325 and completes the Professional Pilot Program Course.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": [
       "AVIA325",
@@ -3931,7 +3931,7 @@
     "title": "AVIA474 - Special Topics in Aviation",
     "subject": "Aviation (AVIA)",
     "description": "An advanced special topics course offered in a particular branch of aviation, subject to availability of instructor.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": []
   },
@@ -3940,7 +3940,7 @@
     "title": "AVIA475 - Independent Studies of Selected Topics",
     "subject": "Aviation (AVIA)",
     "description": "Individual study of special topics not covered in other aviation courses. Students will not be given permission to register for this course until a faculty member has agreed to supervise the study and the student has developed a brief outline of study to be approved by the Director of Aviation.",
-    "faculty": "VPA",
+    "faculty": "SCI",
     "level": 400,
     "prerequisites": []
   },
@@ -5925,7 +5925,7 @@
     "title": "BASE32 - Introduction to Skills & Strategies for University",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "This integrated course introduces students to essential skills and learning strategies required for active participation in a university lecture environment. Academic vocabulary, listening, and note-taking skills, as well as a variety of reading and study strategies are developed within a discipline-specific context that provides targeted language and study skills support for a concurrent credit course.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -5934,7 +5934,7 @@
     "title": "BASE34 - Introduction to Academic Writing and Research Skills",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "This course provides instruction in conventional patterns of academic writing and introduces students to basic research skills which they then apply to produce well-structured and supported text. This course also encourages the development of written fluency and accuracy through a process approach to writing that includes a focus on grammatical structures, sentence variety, cohesive devices and self-editing strategies.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -5943,7 +5943,7 @@
     "title": "BASE36 - Introduction to Academic Speaking and Communication Strategies",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "This course introduces students to a variety of formal and informal academic speaking environments and helps them to improve their confidence, vocabulary, pronunciation, listening and presentation skills in order to become more engaged participants in conversations, discussions, and presentations, both in and out of the classroom.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -5952,7 +5952,7 @@
     "title": "BASE42 - Enhanced Skills & Strategies for University",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "This course provides students with additional skills and learning strategies to assist in navigating a greater variety of university contexts, including, but not limited to, those pertaining to their concurrent credit course. With an emphasis on building and applying critical thinking skills to better engage with credit course content, this course also presents students with opportunities to expand their discipline-specific vocabulary and heighten interpersonal and teamwork skills.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -5961,7 +5961,7 @@
     "title": "BASE44 - Extended Academic Writing and Research Skills",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "Through the extension of students' research skills and their understanding of rhetorical modes and grammatical structures, this course encourages students to develop an independent approach to writing and research in order to complete a research report related to an area of disciplinary interest. Strategies to revise for accuracy, clarity, and succinctness are also examined.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -5970,7 +5970,7 @@
     "title": "BASE46 - Effective Academic Speaking and Communication Strategies",
     "subject": "Bridge to Academic Success in English (BASE)",
     "description": "With a greater focus on materials organization, group management, and delivery impact, this course encourages students to become more effective overall communicators in a variety of speaking contexts. Persuasive speaking, interview skills, and student-led seminars are additional components of this course, which continues to provide opportunities for students to refine their pronunciation and enhance speaking accuracy and fluency.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": null,
     "prerequisites": []
   },
@@ -6143,7 +6143,7 @@
     "title": "BUS111W - Understanding the Business Environment (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -6152,7 +6152,7 @@
     "title": "BUS121W - Critical Thinking and Communication Skills (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -6161,7 +6161,7 @@
     "title": "BUS127W - Introduction to Financial Accounting (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -6170,7 +6170,7 @@
     "title": "BUS208W - Interpersonal Communication (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": []
   },
@@ -6179,7 +6179,7 @@
     "title": "BUS231W - Business Law (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": []
   },
@@ -6188,7 +6188,7 @@
     "title": "BUS247W - Managerial Accounting (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "AFM101"
@@ -6199,7 +6199,7 @@
     "title": "BUS252W - Introduction to Marketing Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "AFM131",
@@ -6211,7 +6211,7 @@
     "title": "BUS283W - Financial Management 1 (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "AFM101"
@@ -6222,7 +6222,7 @@
     "title": "BUS288W - Organizational Behaviour 1 (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "AFM131",
@@ -6234,7 +6234,7 @@
     "title": "BUS311W - Entrepreneurship and New Ventures (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM131",
@@ -6246,7 +6246,7 @@
     "title": "BUS354W - Human Resources Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM131",
@@ -6260,7 +6260,7 @@
     "title": "BUS362W - Applied Marketing (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM131",
@@ -6273,7 +6273,7 @@
     "title": "BUS375W - Operations Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": []
   },
@@ -6282,7 +6282,7 @@
     "title": "BUS381W - Strategic Management I (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM131",
@@ -6297,7 +6297,7 @@
     "title": "BUS393W - Financial Management 2 (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM101",
@@ -6309,7 +6309,7 @@
     "title": "BUS398W - Organizational Behaviour 2 (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": []
   },
@@ -6318,7 +6318,7 @@
     "title": "BUS412W - Services Marketing Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -6327,7 +6327,7 @@
     "title": "BUS432W - Consumer Behaviour (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -6336,7 +6336,7 @@
     "title": "BUS435W - Supply Chain Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "MSE432",
@@ -6350,7 +6350,7 @@
     "title": "BUS445W - Information Systems for Supply Chain Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "MSE432",
@@ -6364,7 +6364,7 @@
     "title": "BUS452W - Marketing Strategy (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -6373,7 +6373,7 @@
     "title": "BUS455W - Transportation and Facilities Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU calendar for details.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "MSE432",
@@ -6387,7 +6387,7 @@
     "title": "BUS462W - Business-to-Business Marketing (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "AFM131",
@@ -6400,7 +6400,7 @@
     "title": "BUS472W - Marketing Communications (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -6409,7 +6409,7 @@
     "title": "BUS481W - Strategic Management I (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "AFM131",
@@ -6424,7 +6424,7 @@
     "title": "BUS482W - Sales Management (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -6433,7 +6433,7 @@
     "title": "BUS485W - Environmental Management for Operations (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "MSE432",
@@ -6447,7 +6447,7 @@
     "title": "BUS491W - Strategic Management II (WLU)",
     "subject": "Businesss (Wilfrid Laurier University) (BUS)",
     "description": "Taught at Wilfrid Laurier University. Refer to WLU Undergraduate Calendar for course description.",
-    "faculty": "WLU",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -9022,7 +9022,7 @@
     "title": "COOP1 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9031,7 +9031,7 @@
     "title": "COOP2 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9040,7 +9040,7 @@
     "title": "COOP3 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9049,7 +9049,7 @@
     "title": "COOP4 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9058,7 +9058,7 @@
     "title": "COOP5 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9067,7 +9067,7 @@
     "title": "COOP6 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9076,7 +9076,7 @@
     "title": "COOP7 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9085,7 +9085,7 @@
     "title": "COOP8 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9094,7 +9094,7 @@
     "title": "COOP9 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9103,7 +9103,7 @@
     "title": "COOP10 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9112,7 +9112,7 @@
     "title": "COOP11 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -9121,7 +9121,7 @@
     "title": "COOP12 - Co-operative Work Term",
     "subject": "Co-operative Work Term (COOP)",
     "description": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -11380,7 +11380,7 @@
     "title": "CFM101 - Introduction to Financial Markets and Data Analytics",
     "subject": "Computing and Financial Management (CFM)",
     "description": "This course introduces financial markets and institutions, commonly used financial data, and data schema and visualization therein. It covers fundamental functions of financial institutions and their usage of data, and basic financial data management techniques. The course will focus on buy side institutions and stock market data.",
-    "faculty": "VPA",
+    "faculty": "MAT",
     "level": 100,
     "prerequisites": []
   },
@@ -11389,7 +11389,7 @@
     "title": "CFM301 - Financial Data Analytics",
     "subject": "Computing and Financial Management (CFM)",
     "description": "This course covers financial data analytics in the areas of asset pricing, securities trading, and portfolio management. It covers data usage and application in basic testing of asset pricing theories, trading algorithms and strategies, back-testing techniques, and aspects of portfolio management associated with trading strategies.",
-    "faculty": "VPA",
+    "faculty": "MAT",
     "level": 300,
     "prerequisites": [
       "CFM101",
@@ -11402,7 +11402,7 @@
     "title": "CFM401 - Topics in Financial Technology",
     "subject": "Computing and Financial Management (CFM)",
     "description": "This course introduces current topics in financial technology. Students will apply data analytics or general computational concepts to gain a better understanding of new financial technology.",
-    "faculty": "VPA",
+    "faculty": "MAT",
     "level": 400,
     "prerequisites": [
       "CFM301"
@@ -16192,7 +16192,7 @@
     "title": "EMLS101R - Oral Communications for Academic Purposes",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this course introduces group discussion strategies and presentation skills. Students will improve their informal and formal speaking skills to meet current social, academic, and business practices. A focus on pronunciation and vocabulary assists learners to better engage in conversations and listen to and deliver English presentations. Materials organization, rhetorical devices, nonverbal communication, group management, and intonation patterns are examined.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16201,7 +16201,7 @@
     "title": "EMLS102R - Clear Communication in English Writing",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this course offers sentence-level instruction in grammar and idiom to teach students to produce, evaluate, and edit writing under time constraints. It emphasizes readability and error reduction in sentences and paragraphs.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16210,7 +16210,7 @@
     "title": "EMLS103R - Effective English Pronunciation",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this course has an intensive focus on the structure of the English sound system with a view to improving pronunciation. Vowel and consonant sounds are practised as well as the phonetic elements above those sounds, such as stress, intonation, and rhythm. The goal is for students to identify their problem areas and to develop strategies to improve their comprehensibility.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16219,7 +16219,7 @@
     "title": "EMLS104R - Reading and Listening for Academic Purposes",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this course offers instruction in reading and listening strategies. Students learn macro and micro reading and listening strategies to improve their reading comprehension and speed and their listening and note-taking skills. Students also build their academic vocabulary.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16228,7 +16228,7 @@
     "title": "EMLS105R - English in Employment Contexts",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed for students for whom English is not the first language, this course draws attention to linguistic and workplace cultural features that support essential employment skills such as clarifying instructions, collaborating effectively, providing feedback, and using small talk appropriately.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16237,7 +16237,7 @@
     "title": "EMLS110R - Communicating in Canadian Academic Contexts",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this course introduces students to North American academic expectations. Students learn to identify attitude and intent in text, to recognize North American patterns of organization, to select and acknowledge appropriate primary and secondary sources, and to present ideas cohesively in speaking and writing.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -16246,7 +16246,7 @@
     "title": "EMLS129R - Written Academic English",
     "subject": "English for Multilingual Speakers (EMLS)",
     "description": "Designed specifically for students for whom English is not the first language, this writing skills course provides instruction in grammar, sentence and paragraph structure, elements of composition, and academic essay writing, including a focus on theme, development of central ideas, exposition, and argumentation.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -35715,7 +35715,7 @@
     "title": "PD1 - Career Fundamentals",
     "subject": "Professional Development (PD)",
     "description": "This course is a combination of career development advice and work search information. Topics include preparing résumés, developing interview skills, and preparing for success in the workplace. Program-specific information is provided for students pursuing different forms of work integrated education.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35724,7 +35724,7 @@
     "title": "PD3 - Communication",
     "subject": "Professional Development (PD)",
     "description": "In this course, students will come to understand the nature and function of communication, particularly communication in the workplace, with a view to assessing, monitoring, and improving their own communications skills. At the end of this course, students will be equipped to converse cordially with peers; collaborate more effectively in teams; give and receive clear instructions and messages; resolve conflicts amicably; and appreciate the ethical dimensions of workplace communication.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35733,7 +35733,7 @@
     "title": "PD4 - Teamwork",
     "subject": "Professional Development (PD)",
     "description": "An introduction to the processes and skill required of high-performance teams. Application of teamwork skills to decision making, conflict resolution and leadership. Development of self-awareness and relational skills to improve one's ability to collaborate effectively, give and receive assistance, and empower others. Personal reflection and case discussion is integrated with observations of teamwork in the co-op experience work environment.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35742,7 +35742,7 @@
     "title": "PD5 - Project Management",
     "subject": "Professional Development (PD)",
     "description": "This course is intended to provide students with knowledge of basic project management techniques and practices while placing these within their organizational context. Students should understand how these techniques and practices are used and the human issues in their application.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35751,7 +35751,7 @@
     "title": "PD6 - Problem Solving",
     "subject": "Professional Development (PD)",
     "description": "This course provides students with the knowledge and skills needed to problem solve effectively in today's workplaces. Emphasis is on understanding how both critical and creative thinking can be applied to workplace problems as well as identifying the barriers that can interfere with the problem solving process. Students will have the opportunity to apply a variety of problem solving strategies in order to develop their own Problem Solving Action Plan.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35760,7 +35760,7 @@
     "title": "PD7 - Conflict Resolution",
     "subject": "Professional Development (PD)",
     "description": "This course will help students analyze and understand typical sources of conflict in the workplace, individual and group conflicts, mediation, negotiation, alternative dispute resolution, working with difficult people, and how to recover from conflict. Students will develop a personal vision/model of conflict and communication skills.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35769,7 +35769,7 @@
     "title": "PD8 - Intercultural Skills",
     "subject": "Professional Development (PD)",
     "description": "This course provides students with the knowledge and skills needed to work effectively in today's culturally and linguistically diverse workplaces. Emphasis is on understanding how cultural values shape our everyday behaviours, attitudes, thinking processes, and communication styles. Students will examine their own cultural preferences, become familiar with key models used to described cultures, and apply intercultural concepts and tools to analyze cultural issues in the workplace.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35778,7 +35778,7 @@
     "title": "PD9 - Ethical Decision Making",
     "subject": "Professional Development (PD)",
     "description": "Borrowing from philosophy, game theory, and economics, this course equips students with the theoretical knowledge required to objectively evaluate and discuss ethical issues in the workplace. It provides students with practical advice regarding how to make ethical decisions in an increasingly competitive marketplace. Topics include the ethics of profit-making, why good people make bad decisions, moral hazard, and personal responsibility in group contexts.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35787,7 +35787,7 @@
     "title": "PD10 - Professional Responsibility in Computing",
     "subject": "Professional Development (PD)",
     "description": "This course considers many of the legal and ethical issues that arise in the development of software and digital-content products or services that are to be sold to the public. Course topics include laws that impose obligations on products or producers (e.g., privacy laws, accessibility laws, intellectual-property laws, regulated industries); contracts (e.g., licenses, warranties, privacy policies); and ethical responsibilities to employers, clients, the users of products, and to society as a whole.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35796,7 +35796,7 @@
     "title": "PD11 - Processes for Technical Report Writing",
     "subject": "Professional Development (PD)",
     "description": "This course develops flexible and broadly applicable report writing skills by involving students in various stages of the writing process, from drafting to revision. Students develop context-specific content for their own technical report and learn strategies for peer review.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35805,7 +35805,7 @@
     "title": "PD12 - Critical Reflection for Growth in the Workplace",
     "subject": "Professional Development (PD)",
     "description": "This course supports students in strengthening their self-awareness and critical reflection skills as they relate to the workplace. Using real-world examples and authentic assessments, students will develop their critical reflection toolkit and apply it to workplace challenges such as navigating group dynamics, managing failure and building resilience, and self-advocacy.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35814,7 +35814,7 @@
     "title": "PD13 - Research in the Workplace",
     "subject": "Professional Development (PD)",
     "description": "This course provides students with a foundational understanding of the purpose and process of undertaking research in the workplace. Using examples from student, faculty, and employer projects, students will explore research processes while reflecting upon their own research skills and interests. Topics include ethical and responsible research, research methods, and the critical consumption of research.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35823,7 +35823,7 @@
     "title": "PD14 - Technological Futures: Responsible Digital Innovation",
     "subject": "Professional Development (PD)",
     "description": "This interdisciplinary course delves into the evolving landscape of technology and its profound impact on the future of work. Students will engage with authentic workplace activities to hone their ability to adapt to technological change, identify areas for improvement, and think critically about the implications of technological innovation. Critical examination of experiences, assessment of evolving skills, and exploration of the alignment of these with the dynamic nature of work is addressed through ongoing and summative reflection.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35832,7 +35832,7 @@
     "title": "PD19 - Tactics for Workplace Success",
     "subject": "Professional Development (PD)",
     "description": "An introduction to strategies for success in the workplace and lifelong learning for co-op engineering students. Students explore the role of professional skills in the workplace, a model for self-reflection, a framework of co-operative education, and strategies to make the most of workplace opportunities and challenges. Topics include professional skills, strategies for workplace success, co-operative education, common workplace issues, typical corporate structures, work term planning, and effective self reflection.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35841,7 +35841,7 @@
     "title": "PD20 - Strategies for Career Success",
     "subject": "Professional Development (PD)",
     "description": "An introduction to critical thinking and communication in the workplace for co-op engineering students. Students will practise general critical thinking and communication skills to assess evidence, interpret textual and visual information, and work through ethical and professional situations. Topics include the role of self-reflection in successful professional development, admitting ignorance to develop improved knowledge, understanding arguments, evaluating evidence, communicating conclusion and findings, recognizing and avoiding bias, and application to professional conduct.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -35850,7 +35850,7 @@
     "title": "PD22 - Professionalism and Ethics in Engineering Practice",
     "subject": "Professional Development (PD)",
     "description": "This course provides a framework for understanding professionalism and ethics within society as reflected through practice in the field of professional engineering. Course topics on professionalism include the history of engineering and professions, the licensing of professional engineers and the certification of the practice of offering engineering services to the public, and the regulation of professional engineering in Ontario through Professional Engineers Ontario. Course topics on ethics include the philosophy of ethics and the Code of Ethics, the philosophy of justice, and the definition and disciplining of professional misconduct. Case studies will apply these principles to workplace situations including factors such as environmental ethics, whistle blowing, conflict of interest, and health and safety.",
-    "faculty": "VPA",
+    "faculty": "N/A",
     "level": null,
     "prerequisites": []
   },
@@ -41395,7 +41395,7 @@
     "title": "SWREN411R - Indigenous Knowledges and Decolonizing Social Work Practice with Indigenous Peoples",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This integrative practice course examines colonial impacts on social work policies and service delivery that adversely affect Indigenous Peoples in Canada. Indigenous knowledges and the importance of cultural practices for healing central to shifting colonial notions of 'best interest' are examined. Engagement in a reflexive stance encourages an inward gaze and analysis of the structural powers that work to sustain political, economic, environmental, and social injustices, as well as the identification of and actions towards decolonizing social work practices, relationships, and allyship with Indigenous Peoples.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41404,7 +41404,7 @@
     "title": "SWREN414R - Interviewing and Assessment in Social Work Practice",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This social work methods course explores the theory and skills of generalist social work practice, with particular attention to interviewing, communication, and assessment skills used with individuals, families, organizations, and communities. Emphasis is placed on developing capacity for \"critical reflection\" on the social work practitioner's professional and personal self.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41413,7 +41413,7 @@
     "title": "SWREN422R - Macro Practice: Critical Considerations of Community Organization",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "The course examines and compares the strengths, limitations, differential uses, and interconnections of the range of skills needed for community organization, social planning, and social policy practice. Practical applications such as conference planning, proposal writing and fund raising will be explored.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41422,7 +41422,7 @@
     "title": "SWREN423R - Social Work Knowledge and Skills for Diverse Group Work Practice",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "The aim of this course is to develop student's knowledge of different approaches to social group work practice, and the ways in which specialized knowledge of client's life conditions, life circumstances, and significant life events informs social work practice with groups within a generalist framework. Emphasis is placed upon conceptualizing and analyzing group-work skills and the capacity for self-directed practice with groups directed towards increasing the resiliency of the group as a whole and the resiliency of individual group members. A salient goal is the use of democratic means so that group process in all social work groups reflects a vision of social justice.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41431,7 +41431,7 @@
     "title": "SWREN424R - Social Work and Organizations",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "In this course, students will apply critical and anti-oppressive theories to examine how organizations shape social work practice. Students will investigate the relations between social workers, service users, agency colleagues, and other institutions in particular practice settings, and how these are influenced by policies, mandates, forms, and other institutional texts. Key concepts will include diversity, inclusion, anti-racism, decolonization, and institutional (in)justice.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41440,7 +41440,7 @@
     "title": "SWREN431R - Practitioner Research in Social Work: Intersectional Considerations",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This course examines contemporary fields of practice. Attention is given to historical developments, service delivery systems, and practices. Research activities help develop a critical understanding of how social experience impacts the ways that people with diverse experiences access and encounter some of the major fields of practice.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41449,7 +41449,7 @@
     "title": "SWREN434R - Selected Theories for Social Work Practice: Analysis and Application",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "In this course, students are provided an overview of selected theories that guide a generalist-eclectic approach to social work practice. It offers students the opportunity to engage in the critical analysis and application of contemporary theories by integrating theory with social work values and principles. The course emphasizes the critical use of theory to understanding, critiquing, and transforming the social work profession.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41458,7 +41458,7 @@
     "title": "SWREN441R - Practicum 1",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This first practicum phase helps students understand the general structure and functioning of the helping network and the place of agency-based community settings in it. Simultaneously, the students begin to integrate interviewing and assessment skills to formulate an intervention plan with sensitivity to the diversity of the setting. A bi-weekly seminar runs concurrently with the practicum.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41467,7 +41467,7 @@
     "title": "SWREN442R - Practicum 2",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "The second practicum phase develops students' intervention skills. Opportunity is given to enhance social work practice skills specific to particular client populations within the context of diversity, and to develop awareness of one's professional self in relation to social work practice within the agency context. A bi-weekly seminar runs concurrently with the practicum.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "SWREN414R",
@@ -41479,7 +41479,7 @@
     "title": "SWREN443R - Practicum 3",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "The third practicum phase helps students demonstrate understanding of, and ability to use, a range of interventions within the context of diversity. Professional identification and the integration of theory with practice are emphasized. A bi-weekly seminar runs concurrently with the practicum.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "SWREN414R",
@@ -41491,7 +41491,7 @@
     "title": "SWREN470R - Mental Health Landscapes, Concepts, and Practice Approaches",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This course uses an intersectional lens to critically explore social work practice and distress, mental health, and substance use. Students explore, understand, and apply different knowledges, worldviews, and intervention frameworks related to distress, mental health, and substance use, including national policy frameworks and Indigenous approaches to wellness and healing. Key topics in mental health and substance use are considered including trauma and trauma-informed services, harm reduction, and recovery-oriented principles and services as they are relevant to social work practice. Students are introduced to community- and peer-based approaches to distress and recovery.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41500,7 +41500,7 @@
     "title": "SWREN471R - Social Work with Older Adults: Critical Issues and Future Trends",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "Focusing on social work practice, policy and research, the course examines issues of aging such as health, economic changes, role transition, family dynamics and losses. The course also looks at implications of societal issues and the influence of recent Canadian research in the field of aging. Current innovative and traditional programs will be examined for their relevance for future work with populations of older adults.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41509,7 +41509,7 @@
     "title": "SWREN472R - International Context of Practice: An Experiential Learning Opportunity",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This course provides a framework for understanding a developing country through a comparative study with Canada. The collective responses of citizens in meeting community needs in the context of colonial legacies and contemporary global influences are highlighted in both settings. The international learning experience usually takes place during Reading Week and is complemented by three days of pre-trip learning focusing on Canadian realities and one post-trip day to reflect upon the comparative analysis.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41518,7 +41518,7 @@
     "title": "SWREN490R - Special Topics in Social Work",
     "subject": "Social Work (Bachelor of Social Work) (SWREN)",
     "description": "This special topics course will provide students with opportunities to learn about emerging trends and issues in the field of social work.",
-    "faculty": "REN",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -41691,7 +41691,7 @@
     "title": "STV100 - Society, Technology and Values: Introduction",
     "subject": "Society, Technology and Values (STV)",
     "description": "This course examines the interaction of the technologies developed by a culture with the values and social organization of that culture. The course exposes students to various definitions of society, technology and values, and it presents alternative views about how the three interact. These views are then applied to a number of spheres of influence, including patterns of employment and the role of work; medicine and health; polity and economy; sustainable development and the environment.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 100,
     "prerequisites": []
   },
@@ -41700,7 +41700,7 @@
     "title": "STV201 - Society, Technology and Values: Special Topics",
     "subject": "Society, Technology and Values (STV)",
     "description": "Study of the interaction of society, technology and values in a particular topic area under tutorial guidance by visiting or adjunct faculty.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -41709,7 +41709,7 @@
     "title": "STV202 - Design and Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "The course uses design as a vehicle for examining technology and society interaction, particularly how we design, create, and choose technology. This course has been created to introduce students to various methods to help them view design and technology from a technology-society perspective. The overriding aims of the course are to (a) develop an ability to see through the eyes of others and promote thinking about technology in terms of users as well as producers or creators, (b) develop critical thinking skills, and (c) present design and the choice of technology as an activity involving societal and individual concerns rather than as a purely technical matter. The course does not require advanced technical knowledge and is open to students of all faculties.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -41718,7 +41718,7 @@
     "title": "STV205 - Cybernetics and Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "Cybernetics is the study of the interfaces between humans and machines. This course will present an overview of cybernetics from automation and robotics to prosthetics and wearable computing. The roles of men and women in a post-human era will be discussed along with related themes dealing with gender, cyberspace, politics, and popular culture.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -41727,7 +41727,7 @@
     "title": "STV208 - Artificial Intelligence and Society: Impact, Ethics, and Equity",
     "subject": "Society, Technology and Values (STV)",
     "description": "The objective of this course is to introduce students to ethical and social concerns relating to Artificial Intelligence (AI). These concerns include historical determinism, governance, utopianism, biopower, human rights, robo-ethics, justice, accountability, and fairness. An overview will be provided on these issues as they arise in areas like art, commerce, education, finance, journalism, law, healthcare, transportation, warfare, and work.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -41736,7 +41736,7 @@
     "title": "STV210 - The Computing Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "This course examines the historical and current relationships between computer technology and society. It explores the impact and consequences of computing from a societal perspective, but also considers various nontechnical factors and values that have shaped computing technology and practice. The scope of the course will range from early mechanical aids, through the mid 20th century invention of electronic digital computers, to the networks and mobile applications of the 21st century. Technological studies relating to gender, education, employment, and war will be used as focal points. Material artifacts will form a core element of the course.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -41745,7 +41745,7 @@
     "title": "STV302 - Information Technology and Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "The course has been designed to provide a framework or set of intellectual tools to help students understand and evaluate technological change. These tools will be applied to the development of information technology, its interaction with society, and possible future scenarios. Selected topics include understanding digitization as culture, visions of the future and the perils of prediction, as well as issues related to application areas such as the home, manufacturing, office work, design and services, education, and law. The course will also consider some of the privacy and personal dignity issues associated with information technology.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -41754,7 +41754,7 @@
     "title": "STV304 - Technology in Canadian Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "The course begins by questioning whether or not there is anything distinctive about Canadian design and its context. Through the use of historical and contemporary cases, this course examines factors influencing design and technology choice in Canada and their outcomes. The future of design is also considered in terms of current trends, issues, challenges and opportunities.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -41763,7 +41763,7 @@
     "title": "STV305 - Technology, Society and the Modern City",
     "subject": "Society, Technology and Values (STV)",
     "description": "Cities may be humanity's most significant invention, where we shape our vision of the civilized life. At the same time, the demands of cities shape our lives in fundamental ways. As most of humanity now lives in cities, the technology of city living increasingly becomes the technology of human life itself. The purpose of this course is to examine the technology of civilized life, with the city itself as both a technological system and a scene of technological living. Topics explored include food, transport, cars, architecture, urban planning, public spaces, sanitation and health, civics and governance, sustainability, and information and communications technology. The Canadian city receives some emphasis.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -41772,7 +41772,7 @@
     "title": "STV306 - Biotechnology and Society",
     "subject": "Society, Technology and Values (STV)",
     "description": "Biotechnologies are currently migrating from the laboratory to a wide range of consumer products. In everything from foods to pharmaceuticals, genetic engineering is entering daily life. The biotechnology revolution will likely have as much of an impact on our lives as the information technology revolution. However, there is a wide and potentially dangerous gap between research and development on the one hand and societal awareness of its impact on the other. This course is intended to help students gain a deeper appreciation for the issues, including ethics, surrounding biotechnology and society. It will do this through an investigation of such interactions between biotechnologies and society as genetics and the law, foods and the media, and soil remediation and the environment. Consideration will also be given to the role of computing in biotech research and in the human genome project.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -41781,7 +41781,7 @@
     "title": "STV400 - Society, Technology and Values: Senior Project",
     "subject": "Society, Technology and Values (STV)",
     "description": "An independent, supervised research project related to the interaction of society, technology and values. Projects may take any format that demonstrates scholarly merit. Formats may include essays, impact studies, designs, computer software, or other media. Students are responsible for proposing suitable projects and are encouraged to seek faculty advice on plausible topics.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -41790,7 +41790,7 @@
     "title": "STV401 - Society, Technology and Values: Advanced Topics",
     "subject": "Society, Technology and Values (STV)",
     "description": "Advanced study of the interaction of society, technology and values in a particular topic area under tutorial guidance by visiting or adjunct faculty.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -42903,7 +42903,7 @@
     "title": "SE101 - Introduction to Methods of Software Engineering",
     "subject": "Software Engineering (SE)",
     "description": "An introduction to some of the basic methods and principles used by software engineers, including fundamentals of technical communication, measurement, analysis, and design. Some aspects of the software engineering profession, including standards, safety and intellectual property. Professional development including résumé skills, interview skills, and preparation for co-op terms. Safety-orientation training, including WHMIS assessment, is included in this course.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 100,
     "prerequisites": []
   },
@@ -42912,7 +42912,7 @@
     "title": "SE102 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 100,
     "prerequisites": []
   },
@@ -42921,7 +42921,7 @@
     "title": "SE201 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -42930,7 +42930,7 @@
     "title": "SE202 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -42939,7 +42939,7 @@
     "title": "SE212 - Logic and Computation",
     "subject": "Software Engineering (SE)",
     "description": "Formal logic. Proof systems and styles. Rudimentary model theory. Formal models of computation. Logic-based specification. Correctness proofs. Applications in software engineering.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": [
       "CS138",
@@ -42951,7 +42951,7 @@
     "title": "SE301 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -42960,7 +42960,7 @@
     "title": "SE302 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -42969,7 +42969,7 @@
     "title": "SE350 - Operating Systems",
     "subject": "Software Engineering (SE)",
     "description": "An introduction to the fundamentals of operating system function, and implementation. Topics include concurrency, synchronization, processes, threads, scheduling, memory management, file systems, device management, and security.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": [
       "ECE222",
@@ -42985,7 +42985,7 @@
     "title": "SE380 - Introduction to Feedback Control",
     "subject": "Software Engineering (SE)",
     "description": "Introduction to control systems. Advantages of closed-loop feedback systems. The role of the system mathematical model. Block diagrams and signal flow graphs. The basic control system design problem, stability in control systems. Frequency response analysis techniques. Root-locus analysis. Elementary lead-lag compensation.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": [
       "MATH213"
@@ -42996,7 +42996,7 @@
     "title": "SE390 - Design Project Planning",
     "subject": "Software Engineering (SE)",
     "description": "Students undertake a substantial customer-driven group project as part of the SE390/490/491 design-project sequence covering all major phases of the software-engineering lifecycle. Lectures describe expectations and project-planning fundamentals. Students form groups, decide on a project concept, complete a project-approval process, develop high-level requirements for the project, perform a risk assessment, develop a test plan, and complete a first-iteration prototype. Social, legal, and economic factors are considered.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": [
       "CS240",
@@ -43011,7 +43011,7 @@
     "title": "SE401 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -43020,7 +43020,7 @@
     "title": "SE402 - Seminar",
     "subject": "Software Engineering (SE)",
     "description": "General seminar.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -43029,7 +43029,7 @@
     "title": "SE463 - Software Project Management, Requirements, and Analysis",
     "subject": "Software Engineering (SE)",
     "description": "Introduces students to the requirements definition phase of software development; models, notations, and processes for software requirements, identification, representation, analysis, and validation. Cost estimation from early documents and specifications. Students undertake a substantial customer-driven group project as part of SE490/SE491 design-project sequence covering all major phases of the software engineering life cycle; they decide on a project concept, complete a project-approval process, and develop high-level requirements for the project using all the tools covered in the course. Social, legal, and economic factors are considered.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": [
       "CS246",
@@ -43045,7 +43045,7 @@
     "title": "SE464 - Software Design and Architectures",
     "subject": "Software Engineering (SE)",
     "description": "Introduces students to the design, implementation, and evolution phases of software development. Software design processes, methods, and notation. Implementation of designs. Evolution of designs and implementations. Management of design activities.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": [
       "CS246",
@@ -43058,7 +43058,7 @@
     "title": "SE465 - Software Testing and Quality Assurance",
     "subject": "Software Engineering (SE)",
     "description": "Introduces students to systematic testing of software systems. Software verification, reviews, metrics, quality assurance, and prediction of software reliability and availability. Related management issues.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": [
       "CS246",
@@ -43071,7 +43071,7 @@
     "title": "SE490 - Design Project 1",
     "subject": "Software Engineering (SE)",
     "description": "Continuing from SE390, students undertake a substantial customer-driven group project. Project groups establish and maintain project control processes, delivering a series of iterations on their initial SE390 prototype. Adaptive methodologies are encouraged and supported.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": [
       "SE390"
@@ -43082,7 +43082,7 @@
     "title": "SE491 - Design Project 2",
     "subject": "Software Engineering (SE)",
     "description": "Final implementation, testing, and communication of the design project started in SE390. Technical presentations by groups. Analysis of social, legal, and economic impacts. Final release of the project. Project retrospective.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": [
       "SE490"
@@ -43093,7 +43093,7 @@
     "title": "SE498 - Advanced Topics in Software Engineering",
     "subject": "Software Engineering (SE)",
     "description": "See the course offerings list for topics available.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -43102,7 +43102,7 @@
     "title": "SE499 - Project",
     "subject": "Software Engineering (SE)",
     "description": "A software engineering project requiring the student to demonstrate initiative and assume responsibility. The student normally proposes their own project, which must involve substantial engineering science or engineering design. The student must find a faculty supervisor. A project report is required at the end of the term. Plan consent required.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   },
@@ -44111,7 +44111,7 @@
     "title": "SFM101 - Introduction to Sustainability and Financial Management",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "Introduction to foundational concepts in sustainability through an exploration of the interaction between business, society, and the natural environment from multiple perspectives. The course will emphasize ways to mobilize inclusive blended knowledge for sustainability and innovation.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -44120,7 +44120,7 @@
     "title": "SFM102 - Sustainability Economics",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course provides an introduction to the basic concepts and tools of microeconomics and macroeconomics from the perspective of economic approaches to the environment.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -44129,7 +44129,7 @@
     "title": "SFM201 - Social Issues in Sustainability",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course is an examination of a variety of social issues in sustainability. Foundational topics include human rights, labour, gender equality, children's rights, education, and diversity and engagement of Black, Indigenous, and People of Colour (BIPOC) communities.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "ENBUS102",
@@ -44141,7 +44141,7 @@
     "title": "SFM205 - Advancing Sustainability: A Systems Approach",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "The interconnectedness of multiple systems (e.g., economic, social, ecological) adds complexity to the task of advancing sustainability. This course explores approaches to decision making and communication in such contexts, often characterized by highly complex and interconnected objectives, ambiguity, and imperfect information.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": [
       "SFM101"
@@ -44152,7 +44152,7 @@
     "title": "SFM299 - Special Topics in Sustainability and Financial Management",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "A course offered from time to time on a significant sustainability management issue.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 200,
     "prerequisites": []
   },
@@ -44161,7 +44161,7 @@
     "title": "SFM301 - Enterprise Carbon Accounting",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course is an exploration of carbon markets and regulations. It investigates best practices in greenhouse gas measurement and management in the focal firm and across the supply chain, including greenhouse gas information management system, verification and auditing processes, and strategies for emission reductions target setting.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": []
   },
@@ -44170,7 +44170,7 @@
     "title": "SFM309 - Sustainability and Business Ethics",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course focuses jointly on business ethics and the ethics of sustainability. Ethical issues commonly encountered by finance and accounting professionals are explored. Ethical issues regarding the compatibility of commercial activity and sustainability are also examined with a particular lens on the role of corporate governance, culture, and social responsibility.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": []
   },
@@ -44179,7 +44179,7 @@
     "title": "SFM310 - Sustainability in Capital Markets",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines financial market tools, processes, and institutions which influence the environmental and the channels by which they can be utilized to promote sustainable and socially responsible long-term growth.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM272",
@@ -44191,7 +44191,7 @@
     "title": "SFM311 - Social Systems Finance",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines the influence of social system factors in asset pricing. The course will explore how an organization’s actions related to social issues such as human rights, labour, gender, equality, diversity, and inclusion impact operational outcomes and accordingly influence asset values.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "SFM201",
@@ -44204,7 +44204,7 @@
     "title": "SFM328 - Sustainability Integration Consulting Group - Junior Strategist",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course provides students hands-on training in strategic integration of sustainability objectives and measurement within the firm with guidance from industry experts and supervision by faculty. This will generally be the first course that students take when they join the Sustainability Integration team. Junior strategists will attend consulting group meetings, assist in firm research and materiality assessments, and assist in the preparation of consulting reports/recommendations.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "AFM285",
@@ -44220,7 +44220,7 @@
     "title": "SFM329 - Sustainability Integration Consulting Group - Senior Strategist",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course provides students hands-on training in strategic integration of sustainability objectives and measurement within the firm with guidance from industry experts and supervision by faculty. This course is normally taken after a student has completed one term as a junior strategist with the consulting group. Senior strategists interface with firm representatives, lead the consulting student team, and oversee consulting reports/recommendations.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 300,
     "prerequisites": [
       "SFM328"
@@ -44231,7 +44231,7 @@
     "title": "SFM401 - Social and Human Capital Accounting",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines approaches and methodologies used by firms to understand and measure the value added by social and human capital, to assess positive and negative impacts, and to provide information for decision-making that informs and influences external and internal stakeholders.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -44240,7 +44240,7 @@
     "title": "SFM402 - Natural Capital Accounting",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines approaches and methodologies used by firms to understand and measure natural capital, to assess positive and negative impacts on natural resources, and to provide information for decision-making that informs and influences external and internal stakeholders.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -44249,7 +44249,7 @@
     "title": "SFM403 - Integrated Planning, Reporting, and Risk Management for Sustainability",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This capstone course will review channels by which social, human, natural, and financial capital feed into strategic planning and environmental risk management. Students examine effective and ineffective attempts to embed an understanding of the interdependency among social, human, sustainability, and financial factors and complete a project critically analyzing the planning, reporting, and/or risk management practices of a firm.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "SFM401",
@@ -44261,7 +44261,7 @@
     "title": "SFM411 - Natural Systems Finance",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines the influence of natural system factors in asset pricing. The course will explore how an organization’s actions related to natural environment issues such as carbon output, biodiversity, water, and pollution impact operational outcomes and accordingly influence asset values.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "SFM311"
@@ -44272,7 +44272,7 @@
     "title": "SFM412 - Investor Behaviour",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "This course examines the influence of non-financial factors in asset prices. The psychological and emotional factors that influence investor behaviour and decision making will be examined in the context of resultant market anomalies. The course will also examine the extent to which investors view sustainability factors in natural and social systems as material in asset values.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "AFM272",
@@ -44284,7 +44284,7 @@
     "title": "SFM413 - Integrating Natural and Social Systems in Finance",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "In this capstone students will consider the sustainability performance of an entity from a number of perspectives including tracking, reporting, communications, regulations, ethical considerations, and compensation.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": [
       "SFM411"
@@ -44295,7 +44295,7 @@
     "title": "SFM497 - Special Topics in Sustainability Reporting and Measurement",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "A course offered from time to time on a significant sustainability reporting and measurement issue.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -44304,7 +44304,7 @@
     "title": "SFM498 - Special Topics in Sustainability Finance",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "A course offered from time to time on a significant sustainability finance issue.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -44313,7 +44313,7 @@
     "title": "SFM499 - Special Topics in Sustainability Accounting",
     "subject": "Sustainability and Financial Management (SFM)",
     "description": "A course offered from time to time on a significant sustainability accounting issue.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 400,
     "prerequisites": []
   },
@@ -45516,7 +45516,7 @@
     "title": "UNIV101 - Strategies and Skills for Academic Success",
     "subject": "University (UNIV)",
     "description": "The goal for this course is to help students become successful independent learners. It takes a modelled approach to teaching learning strategies to students who struggle to meet the demands of a university curriculum. In the lectures, students will be taught various learning strategies that they will be able to apply to successfully meet the demands of their other courses. Students will then apply these modelled strategies in their other courses during a weekly application seminar. Students will be expected to demonstrate their understanding of the material through a variety of assignments.",
-    "faculty": "VPA",
+    "faculty": "ART",
     "level": 100,
     "prerequisites": []
   },
@@ -45848,7 +45848,7 @@
     "title": "WKRPT3 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student during the work term.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": null,
     "prerequisites": []
   },
@@ -45857,7 +45857,7 @@
     "title": "WKRPT4 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student during the work term.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": null,
     "prerequisites": []
   },
@@ -45866,7 +45866,7 @@
     "title": "WKRPT100 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for the degree but their grades are not included in the average. However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar. Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 100,
     "prerequisites": []
   },
@@ -45875,7 +45875,7 @@
     "title": "WKRPT200 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for the degree but their grades are not included in the average. However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar. Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -45884,7 +45884,7 @@
     "title": "WKRPT203 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "Students will complete a case study analysis of the firm in which they are employed. Work-term reports are required courses for the degree but their grades are not included in the average. However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar. Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 200,
     "prerequisites": []
   },
@@ -45893,7 +45893,7 @@
     "title": "WKRPT300 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for the degree but their grades are not included in the average. However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar. Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 300,
     "prerequisites": []
   },
@@ -45902,7 +45902,7 @@
     "title": "WKRPT400 - Work-term Report",
     "subject": "Work-term Report (WKRPT)",
     "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for the degree but their grades are not included in the average. However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar. Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.",
-    "faculty": "VPA",
+    "faculty": "ENG",
     "level": 400,
     "prerequisites": []
   }

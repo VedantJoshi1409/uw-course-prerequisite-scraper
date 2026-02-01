@@ -45,7 +45,7 @@
   },
   {
     "subjectCode": "AVIA",
-    "faculty": "VPA"
+    "faculty": "SCI"
   },
   {
     "subjectCode": "BIOL",
@@ -61,11 +61,11 @@
   },
   {
     "subjectCode": "BASE",
-    "faculty": "REN"
+    "faculty": "ART"
   },
   {
     "subjectCode": "BUS",
-    "faculty": "WLU"
+    "faculty": "ART"
   },
   {
     "subjectCode": "BET",
@@ -121,11 +121,11 @@
   },
   {
     "subjectCode": "CFM",
-    "faculty": "VPA"
+    "faculty": "MAT"
   },
   {
     "subjectCode": "COOP",
-    "faculty": "VPA"
+    "faculty": "N/A"
   },
   {
     "subjectCode": "CROAT",
@@ -165,7 +165,7 @@
   },
   {
     "subjectCode": "EMLS",
-    "faculty": "REN"
+    "faculty": "ART"
   },
   {
     "subjectCode": "ENVS",
@@ -397,7 +397,7 @@
   },
   {
     "subjectCode": "PD",
-    "faculty": "VPA"
+    "faculty": "N/A"
   },
   {
     "subjectCode": "PDARCH",
@@ -465,11 +465,11 @@
   },
   {
     "subjectCode": "SWREN",
-    "faculty": "REN"
+    "faculty": "ART"
   },
   {
     "subjectCode": "STV",
-    "faculty": "VPA"
+    "faculty": "ENG"
   },
   {
     "subjectCode": "SOC",
@@ -477,7 +477,7 @@
   },
   {
     "subjectCode": "SE",
-    "faculty": "VPA"
+    "faculty": "ENG"
   },
   {
     "subjectCode": "SPAN",
@@ -493,7 +493,7 @@
   },
   {
     "subjectCode": "SFM",
-    "faculty": "VPA"
+    "faculty": "ART"
   },
   {
     "subjectCode": "SYDE",
@@ -505,7 +505,7 @@
   },
   {
     "subjectCode": "UNIV",
-    "faculty": "VPA"
+    "faculty": "ART"
   },
   {
     "subjectCode": "UCR",
@@ -517,6 +517,6 @@
   },
   {
     "subjectCode": "WKRPT",
-    "faculty": "VPA"
+    "faculty": "ENG"
   }
 ]
