@@ -90,12 +90,20 @@ const DATA_DIR = path.join(__dirname, "..", "data");
           const results = [];
 
           for (const li of items) {
-            // Check if this li is a top-level "Complete X of the following" wrapper with nested <ul>
+            // Check if this li is a "Complete X of the following" wrapper with nested <ul>
             const span = li.querySelector(":scope > span");
-            if (span && parseAmount(span.textContent) !== null) {
+            const amount = span ? parseAmount(span.textContent) : null;
+            if (amount !== null) {
               const nestedUl = li.querySelector(":scope > ul");
               if (nestedUl) {
-                results.push(...parseUl(nestedUl));
+                if (amount === "all") {
+                  // "Complete all" is just a passthrough — flatten its children
+                  results.push(...parseUl(nestedUl));
+                } else {
+                  // "Complete N of the following" is a real requirement group
+                  const options = parseUl(nestedUl);
+                  results.push({ amount, options });
+                }
                 continue;
               }
             }
