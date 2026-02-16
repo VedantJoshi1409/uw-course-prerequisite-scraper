@@ -1,12 +1,14 @@
 const { firefox } = require("playwright");
 const fs = require("fs");
+const path = require("path");
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 (async () => {
   const browser = await firefox.launch({ headless: false });
   const page = await browser.newPage();
 
   // Read subject links
-  const subjectLinks = JSON.parse(fs.readFileSync("subject_links.json", "utf-8"));
+  const subjectLinks = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "course_subject_urls.json"), "utf-8"));
   console.log(`Found ${subjectLinks.length} subjects to process`);
 
   const allCourseLinks = {};
@@ -45,8 +47,8 @@ const fs = require("fs");
   }
 
   // Save all course links to file
-  fs.writeFileSync("course_links.json", JSON.stringify(allCourseLinks, null, 2));
-  console.log(`\nDone! Saved course links for ${Object.keys(allCourseLinks).length} subjects to course_links.json`);
+  fs.writeFileSync(path.join(DATA_DIR, "course_page_urls.json"), JSON.stringify(allCourseLinks, null, 2));
+  console.log(`\nDone! Saved course links for ${Object.keys(allCourseLinks).length} subjects to course_page_urls.json`);
 
   await browser.close();
 })();

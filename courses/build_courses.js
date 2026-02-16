@@ -1,9 +1,11 @@
 const fs = require("fs");
+const path = require("path");
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 // Load all data sources
-const prerequisites = JSON.parse(fs.readFileSync("prerequisites.json", "utf-8"));
-const courseExtras = JSON.parse(fs.readFileSync("course_extras.json", "utf-8"));
-const facultiesArchive = JSON.parse(fs.readFileSync("faculties_archive.json", "utf-8"));
+const prerequisites = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "course_prerequisites.json"), "utf-8"));
+const courseExtras = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "course_descriptions.json"), "utf-8"));
+const facultiesArchive = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "subject_faculties.json"), "utf-8"));
 
 // Create a map from subject code to faculty
 const facultyMap = {};
@@ -58,7 +60,7 @@ for (const courseId of allCourseIds) {
 }
 
 // Save combined courses
-fs.writeFileSync("courses.json", JSON.stringify(courses, null, 2));
+fs.writeFileSync(path.join(DATA_DIR, "courses.json"), JSON.stringify(courses, null, 2));
 
 console.log(`Combined ${Object.keys(courses).length} courses into courses.json`);
 console.log(`- From prerequisites.json: ${Object.keys(prerequisites).length} courses`);

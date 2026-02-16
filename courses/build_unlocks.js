@@ -1,7 +1,9 @@
 const fs = require('fs');
+const path = require('path');
+const DATA_DIR = path.join(__dirname, '..', 'data');
 
 // Load courses data
-const courses = JSON.parse(fs.readFileSync('courses.json', 'utf8'));
+const courses = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'courses.json'), 'utf8'));
 
 // Build unlocks map: for each course, track which courses it unlocks
 const unlocksMap = {};
@@ -29,7 +31,7 @@ for (const courseId of Object.keys(courses)) {
 }
 
 // Save updated courses
-fs.writeFileSync('courses.json', JSON.stringify(courses, null, 2));
+fs.writeFileSync(path.join(DATA_DIR, 'courses.json'), JSON.stringify(courses, null, 2));
 
 // Print summary stats
 let totalUnlocks = 0;

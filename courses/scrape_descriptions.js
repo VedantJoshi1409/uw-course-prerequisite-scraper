@@ -1,20 +1,22 @@
 const { firefox } = require("playwright");
 const fs = require("fs");
+const path = require("path");
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 (async () => {
   const browser = await firefox.launch({ headless: false });
   const page = await browser.newPage();
 
   // Read course links (already collected from subject pages)
-  const courseLinks = JSON.parse(fs.readFileSync("course_links.json", "utf-8"));
+  const courseLinks = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "course_page_urls.json"), "utf-8"));
   const subjects = Object.keys(courseLinks);
 
   // Load existing progress if any
   let courseExtras = {};
-  if (fs.existsSync("course_extras.json")) {
-    courseExtras = JSON.parse(fs.readFileSync("course_extras.json", "utf-8"));
+  if (fs.existsSync(path.join(DATA_DIR, "course_descriptions.json"))) {
+    courseExtras = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "course_descriptions.json"), "utf-8"));
     console.log(
-      `Loaded ${Object.keys(courseExtras).length} existing courses from course_extras.json`,
+      `Loaded ${Object.keys(courseExtras).length} existing courses from course_descriptions.json`,
     );
   }
 
@@ -85,7 +87,7 @@ const fs = require("fs");
 
     // Save after each subject completes
     fs.writeFileSync(
-      "course_extras.json",
+      path.join(DATA_DIR, "course_descriptions.json"),
       JSON.stringify(courseExtras, null, 2),
     );
     console.log(
@@ -94,7 +96,7 @@ const fs = require("fs");
   }
 
   console.log(
-    `\nDone! Saved extras for ${Object.keys(courseExtras).length} courses to course_extras.json`,
+    `\nDone! Saved descriptions for ${Object.keys(courseExtras).length} courses to course_descriptions.json`,
   );
 
   await browser.close();

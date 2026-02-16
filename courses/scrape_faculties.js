@@ -1,5 +1,7 @@
 const { firefox } = require("playwright");
 const fs = require("fs");
+const path = require("path");
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 (async () => {
   const browser = await firefox.launch({ headless: false });
@@ -34,8 +36,8 @@ const fs = require("fs");
   console.log(JSON.stringify(rows, null, 2));
 
   // Save rows to file
-  fs.writeFileSync("faculties_archive.json", JSON.stringify(rows, null, 2));
-  console.log("Rows saved to faculties_archive.json");
+  fs.writeFileSync(path.join(DATA_DIR, "subject_faculties.json"), JSON.stringify(rows, null, 2));
+  console.log("Rows saved to subject_faculties.json");
 
   await browser.close();
 })();
