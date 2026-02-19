@@ -132,6 +132,18 @@ const DATA_DIR = path.join(__dirname, "..", "data");
           return options;
         }
 
+        // Handle programs with multiple named sections (e.g. engineering term blocks)
+        // by parsing each section's ul and flattening into one requirements list.
+        const nestedSections = Array.from(section.querySelectorAll("section"));
+        if (nestedSections.length > 1) {
+          const all = [];
+          for (const s of nestedSections) {
+            const ul = s.querySelector("ul");
+            if (ul) all.push(...parseUl(ul));
+          }
+          return all;
+        }
+
         // Find the first <ul> in the section
         const rootUl = section.querySelector("ul");
         if (!rootUl) return null;
@@ -139,14 +151,18 @@ const DATA_DIR = path.join(__dirname, "..", "data");
         return parseUl(rootUl);
       });
 
-      programRequirements[program.text] = {
-        name: program.text,
-        href: program.href,
-        requirements: requirements || [],
-      };
-
       const reqCount = requirements ? requirements.length : 0;
       console.log(`  Found ${reqCount} requirement group(s)`);
+
+      if (reqCount === 0) {
+        console.log(`  Skipping (no requirements found)`);
+      } else {
+        programRequirements[program.text] = {
+          name: program.text,
+          href: program.href,
+          requirements,
+        };
+      }
 
     } catch (err) {
       console.log(`  Error: ${err.message}`);
